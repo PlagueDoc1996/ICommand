@@ -1,3 +1,2 @@
-# ICommand
-
-Kotlin/Java Command interface
+# IPlugin
+Plugin interface on Kotlin/JAVA
