@@ -1,3 +1,6 @@
 package cmd
 
-typealias ICommand = ()-> Unit
+class ICommand : ()-> Unit
+{
+    override fun invoke() = Unit
+}
