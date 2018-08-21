@@ -1,6 +1,5 @@
 package cmd
-
-class ICommand : ()-> Unit
+interface ICommand : ()-> Unit
 {
-    override fun invoke() = Unit
+    override fun invoke()
 }
